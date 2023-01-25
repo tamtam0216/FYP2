@@ -51,7 +51,6 @@ Cython==0.29.32
 cytoolz==0.11.0
 dask==2022.7.0
 datashader==0.14.1
-datashape==0.5.4
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
